@@ -1,4 +1,5 @@
-production_data/pub.xml
-production_data/samplePubMed.xml
-production_data/smallPub.xml
-production_data/pub.xml
+data/pub.xml
+data/samplePubMed.xml
+data/smallPub.xml
+data/pub.xml
+data/newdata.txt
